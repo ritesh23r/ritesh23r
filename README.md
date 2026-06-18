@@ -1,7 +1,6 @@
 Hi, I'm Ritesh Das 👋
 
 Aspiring Data Analyst
-
 I am passionate about transforming data into meaningful insights through analysis and visualization.
 
 Skills
@@ -18,11 +17,6 @@ Current Focus
 - Building Power BI dashboards
 - Learning advanced data analytics concepts
 - Creating real-world projects
-
-Featured Projects
-- Sales Dashboard Analysis
-- World Happiness Report Analysis
-- Customer Analytics Dashboard
 
 Goals for 2026
 - Secure a Data Analyst Internship
