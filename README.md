@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Ritesh Das 👋
 
-<!--
-**ritesh23r/ritesh23r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am passionate about transforming data into meaningful insights through analysis and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+- SQL
+- Power BI
+- Python
+- Pandas
+- NumPy
+- Excel
+- Git & GitHub
+
+Current Focus
+- Strengthening SQL fundamentals
+- Building Power BI dashboards
+- Learning advanced data analytics concepts
+- Creating real-world projects
+
+Featured Projects
+- Sales Dashboard Analysis
+- World Happiness Report Analysis
+- Customer Analytics Dashboard
+
+Goals for 2026
+- Secure a Data Analyst Internship
+- Build a strong project portfolio
+- Master SQL and Power BI
+- Learn cloud technologies for analytics
+
