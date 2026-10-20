@@ -1,10 +1,6 @@
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ritesh23r/Iris-Classifier-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh23r&repo=Iris-Classifier-model&theme=tokyonight&hide_border=true" alt="Iris Classifier Model"/>
-  </a>
-  <a href="https://github.com/ritesh23r/HeartDisease_Prediction_model">
+<a href="https://github.com/ritesh23r/HeartDisease_Prediction_model">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritesh23r&repo=HeartDisease_Prediction_model&theme=tokyonight&hide_border=true" alt="Heart Disease Prediction Model"/>
   </a>
   <a href="https://github.com/ritesh23r/Fitbit_Case_study">
