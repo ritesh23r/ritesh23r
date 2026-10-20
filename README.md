@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh23r&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh23r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh23r" alt="ritesh23r" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning , FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ritesh23r](https://github.com/ritesh23r)
@@ -30,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh23r&show_icons=true&locale=en" alt="ritesh23r" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh23r&" alt="ritesh23r" /></p>
+
